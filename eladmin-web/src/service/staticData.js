@@ -1,0 +1,1 @@
+export const weixin='https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx168516a5845cca15&redirect_uri=http://36x1717t00.qicp.vip/getCode&response_type=code&scope=snsapi_base&state=STATE&connect_redirect=1#wechat_redirect'
